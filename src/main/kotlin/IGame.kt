@@ -1,0 +1,3 @@
+interface IGame {
+    fun playRound()
+}
